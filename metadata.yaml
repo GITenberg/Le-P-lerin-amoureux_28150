@@ -43,5 +43,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Shakespeare, William, 1564-1616 -- Translations into French'
+- GITenberg
 title: Le Pèlerin amoureux
 url: http://www.gutenberg.org/ebooks/28150
